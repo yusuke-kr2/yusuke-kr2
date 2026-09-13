@@ -33,30 +33,12 @@
 
 ## Projects
 
-## SENGEN（宣言効果）
+## SENGEN
 
 <p align="center">
   <img src="./sengen.png" alt="SENGEN" width="800">
 </p>
 
-## Currently Learning
-
-* Ruby / Ruby on Rails
-* RSpec
-* データベース設計
-* Git / GitHub
-* Webアプリケーション開発
-* 要件定義・設計
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yusuke-kr2&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuke-kr2&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
 
 ---
 
