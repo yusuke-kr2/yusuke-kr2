@@ -33,10 +33,10 @@
 
 ## Projects
 
-## SENGEN
+### SENGEN
 
 <p align="center">
-  <img src="sengen.png" alt="SENGEN" width="800">
+  <img src="sengen.png" alt="SENGEN" width="300">
 </p>
 
 
