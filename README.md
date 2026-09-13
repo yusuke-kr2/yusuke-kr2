@@ -33,11 +33,11 @@
 
 ## Projects
 
-<div align="center">
+## SENGEN（宣言効果）
 
-<img src="./sengen.png" alt="SENGEN" width="800">
-
-</div>
+<p align="center">
+  <img src="./sengen.png" alt="SENGEN" width="800">
+</p>
 
 ## Currently Learning
 
