@@ -19,7 +19,7 @@
 </p>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=26\&pause=1000\&color=2F81F7\&center=true\&vCenter=true\&width=650\&lines=Hi%2C+I'm+Yusuke!;Web+Engineer+in+training;Ruby+%7C+Rails+%7C+Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+kurochan!;Web+Engineer+in+training;Ruby+%7C+Rails+%7C+Docker)](https://git.io/typing-svg)
 
 </div>
 
