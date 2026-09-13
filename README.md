@@ -7,10 +7,10 @@
     <img height="20" src="https://komarev.com/ghpvc/?username=yusuke-kr2" />
   </a>
   <a href="https://qiita.com/kurochannn">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yusuke-kr2/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kurochannn/posts.svg" />
   </a>
   <a href="https://qiita.com/kurochannn">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yusuke-kr2/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kurochannn/contributions.svg" />
   </a>
 </p>
 <p align="center">
