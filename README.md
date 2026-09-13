@@ -4,13 +4,13 @@
 <h1 align="center">kurochan｜くろちゃん</h1>
 <p align="center">
   <a href="https://github.com/yusuke-kr2">
-    <img height="20" src="https://komarev.com/ghpvc/?username=1kazuki0" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=yusuke-kr2" />
   </a>
   <a href="https://qiita.com/kurochannn">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/1kazuki0/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yusuke-kr2/posts.svg" />
   </a>
   <a href="https://qiita.com/kurochannn">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/1kazuki0/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yusuke-kr2/contributions.svg" />
   </a>
 </p>
 <p align="center">
